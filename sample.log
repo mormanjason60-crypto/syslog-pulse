@@ -1,0 +1,4 @@
+INFO User logged in
+WARNING High memory usage
+ERROR Failed to connect to DB
+CRITICAL Service down

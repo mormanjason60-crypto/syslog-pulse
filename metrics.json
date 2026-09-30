@@ -1,0 +1,10 @@
+{
+    "metrics": {
+        "timestamp": "2026-09-30 08:03:08",
+        "cpu_usage_pct": 2.3,
+        "ram_total_gb": 2.68,
+        "ram_used_gb": 1.7,
+        "ram_usage_pct": 63.5
+    },
+    "log_summary": null
+}
