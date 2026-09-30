@@ -1,22 +1,13 @@
 # System Performance Snapshot
 
-**Generated at:** `2026-09-30 08:03:14`
+**Generated at:** `2026-09-30 12:22:37`
 
 ## System Health Overview
 
 | Metric | Current Value | Status |
 | :--- | :--- | :--- |
-| **CPU Usage** | 1.0% | ✅ Normal |
-| **RAM Usage** | 1.71 GB / 2.68 GB (63.6%) | ✅ Normal |
-
-## System Log Analysis
-
-| Keyword | Occurrences |
-| :--- | :--- |
-| **CRITICAL** | 1 |
-| **ERROR** | 1 |
-| **FAILED** | 0 |
-| **WARNING** | 1 |
+| **CPU Usage** | 3.0% | ✅ Normal |
+| **RAM Usage** | 1.2 GB / 15.61 GB (7.7%) | ✅ Normal |
 
 ---
 *Generated automatically via `syslog-pulse` CLI*
